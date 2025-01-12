@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br />My name is Mahesh Kumar Kadireddy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br />I'm Mahesh Kumar Kadireddy
 ==============================================================================================================================================
 
-Data Science | Software Engineer | Full Stack Developer | .Net Developer
+Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack Developer | .Net Developer
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [mahesh.k7667@gmail.com](mailto:mahesh.k7667@gmail.com)
 * 🧠  I'm learning Data Science
+* 📈  4.5+ years of experience as Software Engineer
   
 ------------------------------------------------------------------------
 
