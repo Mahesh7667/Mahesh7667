@@ -12,7 +12,17 @@ Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack D
 ------------------------------------------------------------------------
 
 ### Portfolio 
- <a href="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Trends-and-Future-Prediction" target="_blank" rel="noreferrer"><img src="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Trends-and-Future-Prediction" width="36" height="36" alt="Data-Driven-Insights-into-Alcohol-Related-Mortality" /></a> 
+<div style="display: flex; justify-content: space-around; padding: 0 20px;">
+    <a href="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Trends-and-Future-Prediction" target="_blank">
+        <img src="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/last_sip.png" alt="Thumbnail 1" width="45%" />
+    </a>
+    <a href="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Exploring-through-Visualizations" target="_blank">
+        <img src="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/visualisation_thumbnail.png" alt="Thumbnail 2" width="45%" />
+    </a>
+</div>
+
+
+
 
 ------------------------------------------------------------------------
 
