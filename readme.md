@@ -11,7 +11,7 @@ Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack D
   
 ------------------------------------------------------------------------
 
-### Portfolio - Click [here](datascienceportfol.io/maheshkk) to view more
+### Portfolio - Click [here](https://www.datascienceportfol.io/maheshkk) to view more
 <div style="display: flex; justify-content: space-around; padding: 0 20px;">
     <a href="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Trends-and-Future-Prediction" target="_blank">
         <img src="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/Last_Sip.webp" alt="Thumbnail 1" width="30%" />
