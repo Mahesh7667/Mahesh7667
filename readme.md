@@ -1,3 +1,4 @@
+ 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br />I'm Mahesh Kumar Kadireddy
 ==============================================================================================================================================
 
@@ -12,14 +13,12 @@ Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack D
 ------------------------------------------------------------------------
 
 ### Portfolio - Click [here](https://www.datascienceportfol.io/maheshkk) to view more
-<div style="display: flex; justify-content: space-around; padding: 0 20px;">
-    <a href="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Trends-and-Future-Prediction" target="_blank">
-        <img src="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/Last_Sip.webp" alt="Thumbnail 1" width="30%" />
-    </a>
-    <a href="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Exploring-through-Visualizations" target="_blank">
-        <img src="https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/Sobering_Picture.webp" alt="Thumbnail 2" width="30%" />
-    </a>
-</div>
+<br/>
+
+| Unveiling Alcohol Mortality Trends and Forecasts | Alcohol-Related Deaths in the UK through visuals |
+| -------------------------------------------------- | ------------------------------------------------- |
+| [![Thumbnail 1](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/Last_Sip.webp)](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Trends-and-Future-Prediction) | [![Thumbnail 2](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/Sobering_Picture.webp)](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Exploring-through-Visualizations) |
+
 
 
 
@@ -135,3 +134,5 @@ Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack D
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh7667&show_icons=true&locale=en" alt="mahesh7667" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=mahesh7667" alt="mahesh7667" /></p>
+
+
