@@ -15,8 +15,8 @@ Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack D
 ### Portfolio - Click [here](https://www.datascienceportfol.io/maheshkk) to view more
 <br/>
 
-| Unveiling Alcohol Mortality Trends and Forecasts | Alcohol-Related Deaths in the UK through visuals |
-| -------------------------------------------------- | ------------------------------------------------- |
+| Unveiling Alcohol Mortality Trends and Forecasts | Alcohol-Related Deaths in the UK through visuals | Decoding Customer Behavior |
+| -------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | [![Thumbnail 1](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/Last_Sip.webp)](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Trends-and-Future-Prediction) | [![Thumbnail 2](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/meta/Sobering_Picture.webp)](https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Exploring-through-Visualizations) | [![Thumbnail 3](https://mahesh7667.github.io/Knowing-Your-Customers-A-Data-Driven-Approach/meta/know_your_customers.jpg)]([https://mahesh7667.github.io/Data-Driven-Insights-into-Alcohol-Related-Mortality/Exploring-through-Visualizations](https://mahesh7667.github.io/Knowing-Your-Customers-A-Data-Driven-Approach/)) |
 
 
