@@ -2,12 +2,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br />I'm Mahesh Kumar Kadireddy
 ==============================================================================================================================================
 
-Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack Developer | .Net Developer
+Data Scientist | Data Engineer | Software Engineer | Full Stack Developer | .Net Developer
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [mahesh.k7667@gmail.com](mailto:mahesh.k7667@gmail.com)
-* 🧠  I'm learning Data Science
+* 🧠  Looking for opportunities in Data Science domain.
 * 📈  4.5+ years of experience as Software Engineer
   
 ------------------------------------------------------------------------
@@ -31,17 +31,22 @@ Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack D
         <td>Framework/Library</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-plain-wordmark.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
         </td>
-    </tr>
-    <tr>
-        <td>Automation Tooling</td>
+    </tr>  
+ <tr>
+        <td>Databases/Datastores</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
         </td>
-    </tr>
+  </tr>
     <tr>
         <td>Cloud Engineering</td>
         <td>
@@ -92,15 +97,6 @@ Data Scientist | Data Engineer | Data Analyst | Software Engineer | Full Stack D
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Databases/Datastores</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
