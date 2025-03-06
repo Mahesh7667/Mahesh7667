@@ -7,7 +7,7 @@ Data Scientist | Data Engineer | Software Engineer | Full Stack Developer | .Net
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [mahesh.k7667@gmail.com](mailto:mahesh.k7667@gmail.com)
-* 🧠  Looking for opportunities in Data Science domain.
+* 🧠  Looking for opportunities in solving problems by leveraging tech.
 * 📈  4.5+ years of experience as Software Engineer
   
 ------------------------------------------------------------------------
