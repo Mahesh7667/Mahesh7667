@@ -6,7 +6,7 @@ Data Engineer | Senior Software Engineer | Full Stack Developer | .Net Developer
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [mahesh.k7667@gmail.com](mailto:mahesh.k7667@gmail.com)
+* ✉️  You can contact me at [mahesh.kadireddy@gmail.com](mailto:mahesh.kadireddy@gmail.com)
 * 🧠  Looking for opportunities in solving problems by leveraging tech.
 * 📈  4.5+ years of experience as Software Engineer
   
