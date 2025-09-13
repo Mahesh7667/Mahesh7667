@@ -2,13 +2,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br />I'm Mahesh Kadireddy
 ==============================================================================================================================================
 
-Data Engineer | Software Engineer | Full Stack Developer | .Net Developer
+Software Engineer | Full Stack Developer | .Net Developer | Data Engineer
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [mahesh.kadireddy@gmail.com](mailto:mahesh.kadireddy@gmail.com)
 * 🧠  Looking for opportunities in solving problems by leveraging tech.
-* 📈  4.5+ years of experience as Software Engineer
+* 📈  6+ years of experience as Software Engineer
   
 ------------------------------------------------------------------------
 
